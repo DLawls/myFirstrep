@@ -1,0 +1,20 @@
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\bin\Debug\Assignment 1c - David Lawler.exe.config
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\bin\Debug\Assignment 1c - David Lawler.exe
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\bin\Debug\Assignment 1c - David Lawler.pdb
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.csprojAssemblyReference.cache
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\obj\Debug\Assignment_1c___David_Lawler.frmMain.resources
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\obj\Debug\Assignment_1c___David_Lawler.Properties.Resources.resources
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.csproj.GenerateResource.cache
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.csproj.CoreCompileInputs.cache
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.exe
+C:\Users\David L\Desktop\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.pdb
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\bin\Debug\Assignment 1c - David Lawler.exe.config
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\bin\Debug\Assignment 1c - David Lawler.exe
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\bin\Debug\Assignment 1c - David Lawler.pdb
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.csprojAssemblyReference.cache
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\obj\Debug\Assignment_1c___David_Lawler.frmMain.resources
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\obj\Debug\Assignment_1c___David_Lawler.Properties.Resources.resources
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.csproj.GenerateResource.cache
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.csproj.CoreCompileInputs.cache
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.exe
+C:\Users\David L\Desktop\Assessment 1c\Assignment 1c - David Lawler\obj\Debug\Assignment 1c - David Lawler.pdb
